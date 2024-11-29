@@ -121,5 +121,5 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 ## Acknowledgments
 
-- Inspired by EdStem's functionality and user interface
+- Inspired by Slides.com's functionality and user interface
 - Built as part of UNSW coursework
