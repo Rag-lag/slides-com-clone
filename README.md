@@ -117,3 +117,9 @@ A web-based presentation creation tool inspired by slides.com. Create, edit, and
 ## License
 
 This project is licensed under the [MIT License](LICENSE.md).
+
+
+## Acknowledgments
+
+- Inspired by EdStem's functionality and user interface
+- Built as part of UNSW coursework
