@@ -91,7 +91,7 @@ A web-based presentation creation tool inspired by slides.com. Create, edit, and
 ### Dashboard
 
 [Add screenshots of the dashboard showing presentation grid]
-![Dashboard](/ss/slidesDashboard.png)
+![Dashboard](/ss/slidesdashboard.png)
 
 
 ### Slide Editor
