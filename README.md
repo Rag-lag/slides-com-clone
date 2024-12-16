@@ -94,14 +94,6 @@ A web-based presentation creation tool inspired by slides.com. Create, edit, and
 
 [Add screenshots of the slide editor interface]
 
-### Media Elements
-
-[Add screenshots demonstrating text, image, video, and code blocks]
-
-### Themes and Customization
-
-[Add screenshots of theme picker and customization options]
-
 ### Preview Mode
 
 [Add screenshots of the presentation preview]
