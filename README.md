@@ -85,6 +85,8 @@ A web-based presentation creation tool inspired by slides.com. Create, edit, and
 ### Authentication
 
 [Add screenshots of login and registration pages]
+![slidesAuth](https://github.com/user-attachments/assets/20dc8d60-f422-4e2d-bf19-44031a14f95f)
+
 
 ### Dashboard
 
