@@ -84,23 +84,24 @@ A web-based presentation creation tool inspired by slides.com. Create, edit, and
 
 ### Authentication
 
-[Add screenshots of login and registration pages]
 ![slidesAuth](https://github.com/user-attachments/assets/20dc8d60-f422-4e2d-bf19-44031a14f95f)
 
 
 ### Dashboard
 
-[Add screenshots of the dashboard showing presentation grid]
 ![Dashboard](/ss/slidesdashboard.png)
 
 
 ### Slide Editor
 
-[Add screenshots of the slide editor interface]
+![Editor](/ss/slidesEditor.png)
+
 
 ### Preview Mode
 
-[Add screenshots of the presentation preview]
+![SlideShow1](/ss/slidesPreview1.png)
+![SlideShow2](/ss/sllidesPreview2.png)
+
 
 ## Technical Implementation
 
